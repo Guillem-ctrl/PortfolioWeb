@@ -41,11 +41,11 @@ Aquest portfolio inclou:
 ## Estructura del projecte
 
 
-assets/ → Imatges i icones
-projects/ → Pàgines de projectes
-index.html → Pàgina principal
-style.css → Estils principals
-script.js → Interaccions JS
+- assets/ → Imatges i icones
+- projects/ → Pàgines de projectes
+- index.html → Pàgina principal
+- style.css → Estils principals
+- script.js → Interaccions JS
 
 
 ---
