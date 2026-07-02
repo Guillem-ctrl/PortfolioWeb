@@ -714,3 +714,32 @@ footer {
         transform: translateY(-15px);
     }
 }
+
+
+/* MOBILE WARNING*/
+.mobile-warning {
+    display: none;
+}
+
+@media (max-width: 900px) {
+
+    .mobile-warning {
+        display: flex;
+        position: fixed;
+        inset: 0;
+        background: #111;
+        color: white;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        padding: 2rem;
+        text-align: center;
+        z-index: 9999;
+    }
+
+    main,
+    header,
+    footer {
+        display: none;
+    }
+}
