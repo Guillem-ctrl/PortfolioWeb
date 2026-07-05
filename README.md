@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://your-username.github.io/">Live Demo</a>
+  <a href="https://guillem-ctrl.github.io/PortfolioWeb/">Live Demo</a>
   ·
   <a href="https://github.com/Guillem-ctrl">GitHub Profile</a>
 </p>
@@ -133,7 +133,7 @@ Run the project by opening `index.html` in your browser or using a local develop
 
 The project is available through GitHub Pages:
 
-**https://your-username.github.io/**
+**https://guillem-ctrl.github.io/PortfolioWeb/**
 
 ---
 
